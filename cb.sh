@@ -1,4 +1,9 @@
 #!/usr/bin/env bash
+
+git checkout -b feature/rebuildDialog_zl_20191213
+git pull origin master
+git push origin feature/rebuildDialog_zl_20191213
+
 cd newapp
 git checkout -b feature/rebuildDialog_zl_20191213
 git pull origin master
